@@ -8,7 +8,7 @@ import Slider3 from '@/Components/slide'
 import Footer from '@/Components/end'
 import AnimationOne from '@/Components/animation'
 import React from "react";
-import MeetApp from "@/components/MeetApp";
+import MeetApp from "Components/MeetApp.jsx";
 import Wondered from "@/Components/new";
 
 const inter = Inter({ subsets: ['latin'] })
